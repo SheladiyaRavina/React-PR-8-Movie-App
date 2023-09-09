@@ -1,0 +1,77 @@
+.container{
+    max-width: 1140px;
+    margin: auto;
+}
+.card{
+    width: 250px;
+    height: 450px;
+    float: left;
+    margin: 20px;
+    border-radius: 3%;
+    overflow: hidden;
+    border: none;
+    background-color: #00031C;
+}
+.logo img{
+    width: 250px;
+    height: 450px !important;
+}
+.card img{
+    width: 250px;
+    height: 450px;
+    border-radius: 3%;
+}
+body{
+    background-color:#00031C;
+}
+.navbar{
+    height:70px;
+    background-color: #54597e6f;
+    line-height: 40px;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.btn{
+    width: 80px;
+    height: 30px;
+    background-color:#00031C;
+    border: 2px solid white;
+    margin: 0px;
+    margin-left: 10px;
+    text-align: center;
+    line-height: 12px;
+    color: rgb(255, 251, 251);
+    font-weight: 600;
+}
+.btn:hover{
+    border: 2px solid rgb(241, 20, 20);
+    color: rgb(253, 6, 80);
+}
+button{
+    width: 170px;
+    height: 35px;
+    background-color: rgba(255, 255, 255, 0.753);
+    border: none;
+    font-size: 18px;
+    border-radius: 8px;
+    font-weight: 500;
+    margin: 10px;
+}
+.name{
+    color: #00031C;
+}
+.btn1{
+    margin: 20px;
+}
+.btn1 button:hover{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid red;
+    color: red;
+}
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
